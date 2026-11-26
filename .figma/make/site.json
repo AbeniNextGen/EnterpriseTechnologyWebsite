@@ -1,0 +1,10 @@
+{
+  "description": "Explore ExSofós System GEN’s enterprise technology services, case studies, and client perspectives, and connect with its team to plan your next digital initiative.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
